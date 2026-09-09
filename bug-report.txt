@@ -1,1 +1,2 @@
 bug-001: login-btn
+bug-002: input validation
